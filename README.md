@@ -8,6 +8,7 @@
 
 ## All language
 
+* 【2024-10-30】[naver / mast3r](https://github.com/naver/mast3r) - Grounding Image Matching in 3D with MASt3R
 * 【2024-10-29】[ai16z / eliza](https://github.com/ai16z/eliza) - Conversational Agent for Twitter and Discord
 * 【2024-10-27】[asterinas / asterinas](https://github.com/asterinas/asterinas) - Asterinas is a secure, fast, and general-purpose OS kernel, written in Rust and providing Linux-compatible ABI.
 * 【2024-10-26】[dittofeed / dittofeed](https://github.com/dittofeed/dittofeed) - Open-source customer engagement. Automate transactional and marketing messages across email, SMS, mobile push, WhatsApp, Slack, and more 📨
@@ -51,6 +52,7 @@
 
 ## Python
 
+* 【2024-10-30】[PokeAPI / pokeapi](https://github.com/PokeAPI/pokeapi) - The Pokémon API
 * 【2024-10-26】[sergree / matchering](https://github.com/sergree/matchering) - 🎚️ Open Source Audio Matching and Mastering
 * 【2024-10-26】[pyvista / pyvista](https://github.com/pyvista/pyvista) - 3D plotting and mesh analysis through a streamlined interface for the Visualization Toolkit (VTK)
 * 【2024-10-24】[ucbepic / docetl](https://github.com/ucbepic/docetl) - A system for agentic LLM-powered data processing and ETL
@@ -89,6 +91,7 @@
 
 ## Go
 
+* 【2024-10-30】[jozu-ai / kitops](https://github.com/jozu-ai/kitops) - Securely share and store AI/ML projects as OCI artifacts in your container registry.
 * 【2024-10-29】[maddalax / htmgo](https://github.com/maddalax/htmgo) - htmgo - build simple and scalable systems with go + htmx
 * 【2024-10-27】[thomaspoignant / go-feature-flag](https://github.com/thomaspoignant/go-feature-flag) - GO Feature Flag is a simple, complete and lightweight self-hosted feature flag solution 100% Open Source. 🎛️
 * 【2024-10-26】[hacdias / webdav](https://github.com/hacdias/webdav) - A simple and standalone WebDAV server.
@@ -105,6 +108,7 @@
 
 ## C
 
+* 【2024-10-30】[antirez / load81](https://github.com/antirez/load81) - SDL based Lua programming environment for kids similar to Codea
 * 【2024-10-29】[eadmaster / pcrown](https://github.com/eadmaster/pcrown) - Princess Crown Translation Project Unofficial Redux
 * 【2024-10-23】[samtools / bcftools](https://github.com/samtools/bcftools) - This is the official development repository for BCFtools. See installation instructions and other documentation here http://samtools.github.io/bcftools/howtos/install.html
 * 【2024-10-18】[espressif / esp-iot-solution](https://github.com/espressif/esp-iot-solution) - Espressif IoT Library. IoT Device Drivers, Documentations And Solutions.
@@ -120,6 +124,7 @@
 
 ## C++
 
+* 【2024-10-30】[hku-mars / FAST-LIVO](https://github.com/hku-mars/FAST-LIVO) - A Fast and Tightly-coupled Sparse-Direct LiDAR-Inertial-Visual Odometry (LIVO).
 * 【2024-10-29】[CookiePLMonster / SilentPatch](https://github.com/CookiePLMonster/SilentPatch) - SilentPatch for GTA III, Vice City, and San Andreas
 * 【2024-10-26】[hiyohiyo / CrystalDiskInfo](https://github.com/hiyohiyo/CrystalDiskInfo) - CrystalDiskInfo
 * 【2024-10-23】[microsoft / T-MAC](https://github.com/microsoft/T-MAC) - Low-bit LLM inference on CPU with lookup table
