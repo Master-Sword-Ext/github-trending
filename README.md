@@ -8,6 +8,9 @@
 
 ## All language
 
+* 【2026-02-19】[QwenLM / qwen-code](https://github.com/QwenLM/qwen-code) - An open-source AI agent that lives in your terminal.
+* 【2026-02-19】[HailToDodongo / pyrite64](https://github.com/HailToDodongo/pyrite64) - N64 Game-Engine and Editor using libdragon & tiny3d
+* 【2026-02-19】[p2r3 / convert](https://github.com/p2r3/convert) - Truly universal online file converter
 * 【2026-02-18】[steipete / summarize](https://github.com/steipete/summarize) - Point at any URL/YouTube/Podcast or file. Get the gist. CLI and Chrome Extension.
 * 【2026-02-17】[letta-ai / letta-code](https://github.com/letta-ai/letta-code) - The memory-first coding agent
 * 【2026-02-17】[seerr-team / seerr](https://github.com/seerr-team/seerr) - Open-source media request and discovery manager for Jellyfin, Plex, and Emby.
@@ -611,6 +614,7 @@
 
 ## Java
 
+* 【2026-02-19】[uber / uForwarder](https://github.com/uber/uForwarder) - Apache Kafka is an open-source distributed event streaming platform used by thousands of companies. uForwarder aims to address several pain points while using Apache Kafka for pub-sub message queueing at scale, including partition scalability and head-of-line blocking.
 * 【2026-02-17】[crimera / piko](https://github.com/crimera/piko) - morphe patches for twitter
 * 【2026-02-16】[kousen / claude-code-training](https://github.com/kousen/claude-code-training) - Slides and demos for a training course on Claude Code
 * 【2026-02-13】[freerouting / freerouting](https://github.com/freerouting/freerouting) - Advanced PCB auto-router
@@ -787,6 +791,10 @@
 
 ## Python
 
+* 【2026-02-19】[NVIDIA-NeMo / Automodel](https://github.com/NVIDIA-NeMo/Automodel) - Pytorch Distributed native training library for LLMs/VLMs with OOTB Hugging Face support
+* 【2026-02-19】[SemiAnalysisAI / InferenceX](https://github.com/SemiAnalysisAI/InferenceX) - Open Source Continuous Inference Benchmarking Qwen3.5, DeepSeek, GPTOSS - GB200 NVL72 vs MI355X vs B200 vs GB300 NVL72 vs H100 & soon™ TPUv6e/v7/Trainium2/3
+* 【2026-02-19】[databricks-solutions / ai-dev-kit](https://github.com/databricks-solutions/ai-dev-kit) - Databricks Toolkit for Coding Agents provided by Field Engineering
+* 【2026-02-19】[mavlink / mavlink](https://github.com/mavlink/mavlink) - Marshalling / communication library for drones.
 * 【2026-02-18】[kaifcodec / user-scanner](https://github.com/kaifcodec/user-scanner) - 🕵️🫆 (2-in-1) Emaill and Username OSINT tool that analyzes username and email presence across multiple platforms, intended for security research, investigations, legitimate analysis
 * 【2026-02-18】[HKUDS / AI-Trader](https://github.com/HKUDS/AI-Trader) - "AI-Trader: Can AI Beat the Market?" Live Trading Bench: https://ai4trade.ai Tech Report Link: https://arxiv.org/abs/2512.10971
 * 【2026-02-16】[mistralai / mistral-vibe](https://github.com/mistralai/mistral-vibe) - Minimal CLI coding agent by Mistral
@@ -1802,6 +1810,7 @@
 
 ## C
 
+* 【2026-02-19】[andreknieriem / headunit-revived](https://github.com/andreknieriem/headunit-revived) - Headunit App for displaying Android Auto
 * 【2026-02-18】[SAT-R / sa2](https://github.com/SAT-R/sa2) - A decompilation and port of Sonic Advance 2 - a GameBoy Advance game written in C
 * 【2026-02-17】[ProjectNyxian / Nyxian](https://github.com/ProjectNyxian/Nyxian) - IDE to develop native code iOS apps on unjailbroken iOS it self just via a certificate and a kernel virtualization layer for those apps.
 * 【2026-02-17】[jaylikesbunda / Ghost_ESP](https://github.com/jaylikesbunda/Ghost_ESP) - GhostESP: Revival turns your ESP32 into a cheap and powerful wireless testing tool.
@@ -1997,6 +2006,7 @@
 
 ## C++
 
+* 【2026-02-19】[KhronosGroup / Vulkan-Hpp](https://github.com/KhronosGroup/Vulkan-Hpp) - Open-Source Vulkan C++ API
 * 【2026-02-17】[kavan010 / black_hole](https://github.com/kavan010/black_hole) - Black hole simulation project:
 * 【2026-02-16】[RunanywhereAI / runanywhere-sdks](https://github.com/RunanywhereAI/runanywhere-sdks) - Production ready toolkit to run AI locally
 * 【2026-02-16】[hyperfield / ai-file-sorter](https://github.com/hyperfield/ai-file-sorter) - Cross-platform desktop application for content-aware file organization and renaming. Supports local and remote LLMs, preview-based workflows, and fully user-controlled changes.
@@ -2212,6 +2222,7 @@
 
 ## C#
 
+* 【2026-02-19】[CodingWonders / MicroWin](https://github.com/CodingWonders/MicroWin) - The future home of MicroWin.
 * 【2026-02-18】[Valour-Software / Valour](https://github.com/Valour-Software/Valour) - Valour is bringing communities into the future with unique features, blazing performance, and respect for users.
 * 【2026-02-18】[V1ck3s / octo-fiesta](https://github.com/V1ck3s/octo-fiesta) - A Subsonic API proxy server that transparently integrates multiple music streaming providers as sources.
 * 【2026-02-17】[SteamAutoCracks / Steam-auto-crack](https://github.com/SteamAutoCracks/Steam-auto-crack) - Steam Game Automatic Cracker
@@ -2565,6 +2576,7 @@
 
 ## Css
 
+* 【2026-02-19】[eamonxg / luci-theme-aurora](https://github.com/eamonxg/luci-theme-aurora) - Aurora Theme is an OpenWrt LuCI theme for modern browsers, built with Tailwind CSS and Vite.
 * 【2026-02-17】[karpathy / karpathy.github.io](https://github.com/karpathy/karpathy.github.io) - my blog
 * 【2026-02-03】[AvengeMedia / dms-plugin-registry](https://github.com/AvengeMedia/dms-plugin-registry) - Official and Third Party Plugins & Themes for DankMaterialShell
 * 【2026-01-23】[LINCnil / CookieViz](https://github.com/LINCnil/CookieViz) - CookieViz est un outil de visualisation qui permet de mesurer l'impact des cookies lors de votre propre navigation.
@@ -2698,6 +2710,7 @@
 
 ## Unknown
 
+* 【2026-02-19】[user1342 / Awesome-Android-Reverse-Engineering](https://github.com/user1342/Awesome-Android-Reverse-Engineering) - A curated list of awesome Android Reverse Engineering training, resources, and tools.
 * 【2026-02-18】[OldUnreal / UT2004Patches](https://github.com/OldUnreal/UT2004Patches) - 
 * 【2026-02-14】[open-saas-directory / awesome-native-macosx-apps](https://github.com/open-saas-directory/awesome-native-macosx-apps) - Curated list of lightweight native macOS apps built with Swift, SwiftUI & AppKit. Best native Mac applications for productivity, development & utilities. No Electron bloat. ⭐
 * 【2026-02-13】[teamspeak / teamspeak6-server](https://github.com/teamspeak/teamspeak6-server) - This TeamSpeak 6 Server Beta repository contains the latest beta version of the TeamSpeak 6 Server software, offering early access to improvements and bug fixes. This beta release is intended for testing and feedback before the stable version launch.
